@@ -1,0 +1,6 @@
+{
+  "name": "PMV INFRA GROUP",
+  "description": "Premium luxury corporate website for PMV Infra Group, a leading infrastructure and civil construction company specializing in highways, bridges, heavy machinery, and industrial projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
